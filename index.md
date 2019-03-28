@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Urna Eletrônica - Problemas e Soluções
+Por Vandré Israel Brunazo
+Link para este documento: https://is.gd/vib2019
 
-You can use the [editor on GitHub](https://github.com/vibrunazo/urna2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Links sobre a palestra:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Resumo da palestra](https://goo.gl/9s1eT4)
+- [Slides da palestra](https://docs.google.com/presentation/d/1XOdYuzkpYTt-Kj0sw4QahzbiDBH7jqXJUOs6lsE_Q2s/edit?usp=drivesdk)
 
-### Markdown
+### Sobre Diego Aranha, professor e doutor da UNB especializado em criptografia:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Palestra sobre vulnerabilidades encontradas nos testes [Youtube]](https://www.youtube.com/watch?v=0bAuf4osADg)
+- [Debate na GloboNews entre Diego Aranha e Giuseppe Janino (TSE) [Youtube]](https://www.youtube.com/watch?v=twSQAp4n2lA)
+- [Biografia na Wikipedia](https://pt.wikipedia.org/wiki/Diego_Aranha)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vibrunazo/urna2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Sobre Amilcar Brunazo Filho, engenheiro especializado em segurança de dados:
+- Sábado, dia 30 de Março às 15h. 
+Entrevista para programa Jovem Pensador.
+Tema: Fake news eleitorais.
+ TV Comunitária de Santos.
+Canal 11 da NET, e Canal 8 da Claro
+  [Link para assistir ao vivo na Internet](http://www.tvcomsantos.com/Portal/)
+- [Entrevista recente no Instituto Mises sobre os problemas políticos [Youtube]](https://www.youtube.com/watch?v=9R68eay6MRI)
+- [Texto detalhando diferenças entre as 3 gerações da urna eletrônica](http://www.brunazo.eng.br/voto-e/textos/modelosUE.htm)
+
